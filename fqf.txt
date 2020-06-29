@@ -1,0 +1,10 @@
+[<h4 class="modal-title" id="myModalLabel">
+                [포토] 대성호 실종자 수색
+            </h4>]
+[<div class="news-detail__content">
+<div class="text-center news-detail__image mt-2 mb-2">
+<img alt="[포토] 대성호 실종자 수색" class="img-responsive" src="https://www.bigkinds.or.kr/resources/images/01100201/2019/11/22/01100201.20191122230515001.01.jpg"/>
+</div>
+
+                해양경찰관들이 21일 제주도 서귀포 앞바다에서 대성호 선미에 승선해 수색하고 있다. 대성호는 원인 미상의 화재로 전소된 채 침몰했으며 선원 12명이 실종됐다 1명이 구조됐으나 사망했다.<br/><br/> 연합뉴스
+            </div>]
