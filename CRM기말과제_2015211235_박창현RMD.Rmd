@@ -2,9 +2,7 @@
 title: "CRM기말과제"
 author: "박창현"
 date: '2020 6 26 '
-output:
-  html_document: default
-  pdf_document: default
+output: github_document
 ---
 # kaggle cars데이터를 활용한 지도학습모델비교
 
